@@ -29,6 +29,7 @@ Backend: Laravel
 
 Database: MySQL
 
+Mobile: React Native
 
 📌 Note:
 The primary focus was on developing the backend, while a pre-designed template was used for the frontend.
