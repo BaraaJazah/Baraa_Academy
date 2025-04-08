@@ -2,11 +2,13 @@
 
 A comprehensive system for conducting online quizzes and exams, designed for schools and educational institutions. Teachers can add an unlimited number of quizzes and training courses, as well as official exams during the semester. The system features an intelligent mechanism to generate unique questions for each student, supports timed exams, and allows teachers to control when results are displayed.
 
-https://youtu.be/dqC6nOmn37A
 
-Date : 20 / 07 / 2024
+📅 Date : 20 / 07 / 2024
 
-🔹 Project Features:
+▶️ https://youtu.be/1J5RdBf9NCI
+
+
+## Project Features:
 
 ✅ Add open quizzes that students can solve within lessons
 
@@ -23,7 +25,7 @@ Date : 20 / 07 / 2024
 ✅ Teacher dashboard to monitor student performance and manage exams
 
 
-🔧 Technologies Used:
+## 🔧 Technologies Used:
 
 Backend: Laravel
 
